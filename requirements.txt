@@ -1,0 +1,9 @@
+streamlit==1.32.2
+pandas
+numpy
+sqlalchemy
+networkx
+ortools
+matplotlib
+plotly
+requests
