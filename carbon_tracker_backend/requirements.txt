@@ -21,4 +21,4 @@ torch>=2.2.0,<3.0.0
 torch-geometric>=2.6.0,<3.0.0
 
 ortools>=9.8.0,<10.0.0
-
+plotly
