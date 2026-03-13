@@ -423,8 +423,6 @@ curl "http://localhost:8000/api/v1/emissions"
 
 ---
 
-## License
 
-Specify the license for this project here (e.g. MIT, Apache‑2.0).  
-If you add a `LICENSE` file, update this section accordingly.
+
 
